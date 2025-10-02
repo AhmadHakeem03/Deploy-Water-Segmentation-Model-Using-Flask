@@ -1,4 +1,4 @@
-<div align="center">
-https://github.com/user-attachments/assets/2f05fde8-25fc-4549-9d91-a9d059d35beb
-Real-time water segmentation on multi-spectral satellite imagery
-</div>
+
+
+https://github.com/user-attachments/assets/5fa8c018-292f-4121-abaf-b35bf01f9b22
+
